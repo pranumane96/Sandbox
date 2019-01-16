@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="15cm" height="8cm" viewBox="70 117 289 153" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="123.433" cy="164.966" rx="51.5673" ry="46.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="123.433" cy="164.966" rx="51.5673" ry="46.0336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="123.433" y="169.766">
+      <tspan x="123.433" y="169.766"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="228" y="168" width="130" height="101"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="228" y="168" width="130" height="101"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="293" y="223.3">
+      <tspan x="293" y="223.3"></tspan>
+    </text>
+  </g>
+</svg>

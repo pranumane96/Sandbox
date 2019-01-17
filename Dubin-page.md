@@ -10,4 +10,4 @@ How about an itemized list?
 - another item
 - and so on.
 
-![Sample diagram](SampleDiagram1.svg)\ 
+![Sample diagram](DubinDiagram1.svg)\ 

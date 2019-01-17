@@ -10,4 +10,5 @@ How about an itemized list?
 - another item
 - and so on.
 
+<img src="DubinDiagram1.svg" alt="drawing" width="200"/>
 ![Sample diagram](DubinDiagram1.svg)
